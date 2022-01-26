@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MjeedingHere
 - 👀 I’m interested in Data Analytics/Science
-- 🌱 I’m currently learning Python / Viz tools / Spreasheets
+- 🌱 I’m currently learning Python / Viz tools / Spreadsheets
 
 - 📫 How to reach me on my mail 'AbdulmjeedQ@hotmail.com' 
 
